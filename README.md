@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Software Engineering<br>🌱 I’m currently learning more about Blockchain.<br>💬 Ask me about Nodejs or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-
+<a href="https://app.daily.dev/lamtuong2012392"><img src="https://api.daily.dev/devcards/1df98f070e2146f9ae678a514ebd0146.png?r=nwr" width="400" alt="Tuong Lam's Dev Card"/></a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuonglam.no) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuong-lam-7930b1263) 
 
